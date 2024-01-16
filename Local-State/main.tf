@@ -3,13 +3,13 @@ terraform {
   required_providers {
     aws = {
       source  = "hashicorp/aws"
-      version = "5.21.0"
+      version = "5.32.1"
     }
   }
 }
 
 provider "aws" {
-  region = "eu-central-1"
+  region = "sa-east-1"
 
   default_tags {
     tags = {
