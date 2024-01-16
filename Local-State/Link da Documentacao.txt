@@ -1,0 +1,9 @@
+https://developer.hashicorp.com/terraform/language/state
+
+
+É um arquivo onde o terraform grava automaticamente todos os estados 
+
+Idenpotente = Pode aplicar a mesma código diversas vezes e não vai criar os recursos diversas vezes.
+
+
+
