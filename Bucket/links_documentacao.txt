@@ -1,0 +1,14 @@
+############### DOCUMENTAÇÃO ###############
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/s3_bucket
+
+############### LISTA DE REGIÕES ###############
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.RegionsAndAvailabilityZones.html
+
+Comandos aplicados:
+
+terraform init
+terraform validate
+terraform fmt
+terraform plan
+terraform apply
+terraform destroy
